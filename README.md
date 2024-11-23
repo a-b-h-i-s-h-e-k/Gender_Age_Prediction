@@ -1,15 +1,24 @@
 Gender and Age Prediction
-Overview
+
+# Overview
 This project is a machine learning-based and dee application designed to predict gender and age from provided data. It preprocesses input data (e.g., images or structured text) and applies trained models to classify gender and estimate age categories.
 
-Features
+# Features
 Gender Prediction: Classifies individuals as male or female.
+
 Age Prediction: Estimates the age category (e.g., child, adult, senior).
+
 Data Preprocessing: Includes cleaning and preparation of input data to ensure model compatibility.
-Model Training and Evaluation:
+
+
+# Model Training and Evaluation:
+
 Supports machine learning workflows.
+
 Provides metrics for performance evaluation (e.g., accuracy, precision).
-File Structure
+
+# File Structure
+
 Gender_and_Age_Predictions.ipynb:
 A Jupyter Notebook that contains the entire pipeline for preprocessing, training, and testing the models.
 Includes visualizations for insights and performance evaluation.
